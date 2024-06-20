@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "Xn17CZsdKtv6dSVfkOAyPJ5iCpLKn747RRZCOrouEhdWHeF8NengM5wqAhuqVfbc2A6KZRbDrfHwihWbZXfClA==",
+  "success": true,
+  "projectFilePath": "/home/stefan/Codeprojects/C#-Projekte/TheLift/test/LiftTest/LiftTest.csproj",
+  "expectedPackageFiles": [
+    "/home/stefan/.nuget/packages/coverlet.collector/6.0.0/coverlet.collector.6.0.0.nupkg.sha512",
+    "/home/stefan/.nuget/packages/microsoft.codecoverage/17.6.0/microsoft.codecoverage.17.6.0.nupkg.sha512",
+    "/home/stefan/.nuget/packages/microsoft.net.test.sdk/17.6.0/microsoft.net.test.sdk.17.6.0.nupkg.sha512",
+    "/home/stefan/.nuget/packages/microsoft.testplatform.objectmodel/17.6.0/microsoft.testplatform.objectmodel.17.6.0.nupkg.sha512",
+    "/home/stefan/.nuget/packages/microsoft.testplatform.testhost/17.6.0/microsoft.testplatform.testhost.17.6.0.nupkg.sha512",
+    "/home/stefan/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512",
+    "/home/stefan/.nuget/packages/nuget.frameworks/5.11.0/nuget.frameworks.5.11.0.nupkg.sha512",
+    "/home/stefan/.nuget/packages/nunit/4.1.0/nunit.4.1.0.nupkg.sha512",
+    "/home/stefan/.nuget/packages/nunit.analyzers/4.0.1/nunit.analyzers.4.0.1.nupkg.sha512",
+    "/home/stefan/.nuget/packages/nunit3testadapter/4.5.0/nunit3testadapter.4.5.0.nupkg.sha512",
+    "/home/stefan/.nuget/packages/system.reflection.metadata/1.6.0/system.reflection.metadata.1.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}
